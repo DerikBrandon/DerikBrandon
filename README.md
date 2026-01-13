@@ -5,7 +5,7 @@
 - 🔭 Atualmente estou trabalhando em um gerenciador de estoque.
 - 🌱 Atualmente estou aprendendo JavaScript, tenho um bom conhecimento de Python, C, C++ e HTML.
 - 🤔 Estou á procura de estágio ou emprego na área.
-- 📫 Como me encontrar: www.linkedin.com/in/derik-brandon-santos-0257971bb
+- 📫 Como me encontrar: www.linkedin.com/in/derik-brandon-santos-0257971bb / derikbrandon4@gmail.com
 - ⚡ Curiosidade: Meu primeiro "Hello, World!" foi em C.
 
 <br>
