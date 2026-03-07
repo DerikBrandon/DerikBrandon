@@ -3,7 +3,7 @@
 <br>
 
 - 🔭 Atualmente estou trabalhando em um gerenciador de estoque.
-- 🌱Data Analyst | Python, Pandas, Numpy, Spark, SQL, Databricks | ETL Data Transformation & Analytics, Microsoft Power BI, Microsoft Excel
+- 🌱 Habilidades em Python, Pandas, Numpy, Spark, SQL, Databricks | ETL Data Transformation & Analytics, Microsoft Power BI, Microsoft Excel
 - 🤔 Estou á procura de estágio ou emprego na área.
 - 📫 Como me encontrar: www.linkedin.com/in/derik-brandon-santos-0257971bb / derikbrandon4@gmail.com
 - ⚡ Curiosidade: Meu primeiro "Hello, World!" foi em C.
